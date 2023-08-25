@@ -30,7 +30,7 @@ A small US healthcare clinic specializing in primary-care services suffered a se
 <h2>Final Incident Handler's Journal:</h2>
 
 
+![Screenshot 2023-08-24 9 14 40 PM](https://github.com/mmedinabet/Document-an-incident-with-an-incident-handler-s-journal/assets/142737434/b9ebe2e2-7b12-457b-b29d-ec42534c3b9d)
 
-[Incident report analysis portfolio.docx](https://github.com/mmedinabet/Document-an-incident-with-an-incident-handler-s-journal/files/12434435/Incident.report.analysis.portfolio.docx)
 
 
