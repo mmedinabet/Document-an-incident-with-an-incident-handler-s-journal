@@ -1,4 +1,4 @@
-<h1>Document an incident with an incident handler's journal</h2> 
+<h1>Document an Incident with an Incident Handler's Journal</h2> 
 
 
 <h2>Description</h2>
@@ -9,9 +9,13 @@ A small US healthcare clinic specializing in primary-care services suffered a se
 
 
 
+<h2> </h2>
 
 
-In order to complete this incident handler's journal a Security Analist must take into cosideration the 5 W's of the scenario:
+
+
+
+ In order to complete this incident handler's journal a Security Analist must take into cosideration the 5 W's of the scenario:
 
 - <b>Who caused the incident?</b> 
 
