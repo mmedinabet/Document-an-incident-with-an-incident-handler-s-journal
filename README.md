@@ -1,4 +1,4 @@
-<h1>Document an Incident with an Incident Handler's Journal</h2> 
+<h1>Document an Incident with an Incident Handler's Journal</h1> 
 
 
 <h2>Description</h2>
