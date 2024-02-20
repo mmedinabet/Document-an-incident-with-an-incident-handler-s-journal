@@ -32,5 +32,6 @@ A small US healthcare clinic specializing in primary-care services suffered a se
 
 ![Screenshot 2023-08-24 9 14 40 PM](https://github.com/mmedinabet/Document-an-incident-with-an-incident-handler-s-journal/assets/142737434/b9ebe2e2-7b12-457b-b29d-ec42534c3b9d)
 
-
+<h2>Summary</h2>
+The security breach at the healthcare clinic resulted in significant disruptions to business operations due to the encryption of critical files, particularly patient data, by unethical hackers. The incident, initiated through targeted phishing emails, underscored the importance of robust cybersecurity measures and employee awareness training to mitigate the risk of such attacks in the future.
 
