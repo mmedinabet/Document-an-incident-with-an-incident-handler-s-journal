@@ -13,8 +13,6 @@ A small US healthcare clinic specializing in primary-care services suffered a se
 
 
 
-
-
  In order to complete this incident handler's journal a Security Analist must take into cosideration the 5 W's of the scenario:
 
 - <b>Who caused the incident?</b> 
